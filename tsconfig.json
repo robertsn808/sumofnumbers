@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
-    "target": "ES6",
-    "module": "ES6",
+    "target": "ES2016",
+    "module": "CommonJS",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
@@ -9,7 +9,7 @@
   },
   "include": [
     "**/*.ts"
-  ],
+, "sumofnumbers.ts.bak"  ],
   "exclude": [
     "node_modules"
   ]
